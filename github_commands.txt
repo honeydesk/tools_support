@@ -1,0 +1,10 @@
+- create a repo on github
+- pull the repo on local system
+- To check remote url: git remote -v
+- create files using Vscode
+- To Add files to git: git add .
+- To check the git status: git status
+- To check all version maintained by git: git log
+- To create version/commit all changes by git: git commit -m "message"
+- To send version/changes to github: git push origin main
+
