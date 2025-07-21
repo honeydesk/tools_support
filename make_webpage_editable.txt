@@ -1,0 +1,7 @@
+- Open the webpage on the Chrome browser. Click inspect, and goto console, and write the below command and execute:
+   document.body.contenteditable = true
+
+- The webpage becomes editable. 
+- Edit the webpage, and just have the content, and you could paste images too. 
+- Finally, copy the content, and paste on libreOffice. Convert to PDF.
+- You also copy the content on google doc, and markdown, and upload on github.
