@@ -1,0 +1,14 @@
+- To update anaconda to the latest version: conda update conda
+- On Ubuntu terminal, create a new environment: conda create -p venv python=3.13.5
+- activate the virtual environment: conda activate venv/
+- Open vscode using the ubuntu terminal: code .
+- confirm the availability of the extensions you need on vscode
+- select the virutal environment at command pallette
+- Check python version: python –version
+- confirm the python path using the command: which python
+- To install packages in an activated environment
+- To update an anaconda package: pip install -r requirements.txt
+- To setup required files of the project: python setup.py install
+- Install ipykernel: pip install ipykernel
+
+- To open python interpreter on terminal: python (enter)
